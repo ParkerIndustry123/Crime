@@ -11,7 +11,6 @@ const crimes = [
     { type: "Shots fired", audio: "C:/Users/Guyin/Downloads/Shots Fired.wav" },
     { type: "Suspicious activity", audio: "C:/Users/Guyin/Downloads/Sus.wav" },
     { type: "Assault reported", audio: "C:/Users/Guyin/Downloads/Assault.wav" },
-    { type: "Pursuit in progress", audio: "audio/pursuit.mp3" }
 ];
 
 const frequencies = [
